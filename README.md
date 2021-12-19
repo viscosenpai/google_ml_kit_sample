@@ -1,6 +1,6 @@
 # google_ml_kit_sample
 
-A new Flutter project.
+Text Detect Only
 
 ## Getting Started
 
